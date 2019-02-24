@@ -1,0 +1,117 @@
+.nav{
+    border-color: black
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+    margin: 34px;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+
+
+#logo {
+    position: absolute;
+ 	visibility: visible;
+ 	left: 190px;
+    top: 10px;
+}
+
+
+
+
+
+
+#headerPara {
+    color:black;
+}
+
+
+#heroImage {
+    position: absolute;
+ 	visibility: visible;
+ 	left: 190px;
+    top: 191px;
+     
+}
+
+#leftPicture {
+    position: absolute;
+    visibility: visible;
+    left: 190px;
+    top: 679px;   
+}
+
+#middlePicture {
+    position: absolute;
+    visibility: visible;
+    left: 519px;
+    top: 679px;    
+}
+
+
+#rightPicture {
+    position: absolute;
+    visibility: visible;
+    left: 850px;
+    top: 679px;  
+}
+
+
+#endBodyPicture {
+    position: absolute;
+    visibility: visible;
+    left: 190px;
+    top: 1078px; 
+}
+
+
+h2 {
+    position: absolute;
+    visibility: visible;
+    left: 688px;
+    top: 1073px; 
+    
+}
+
+
+
+#headerPara {
+    position: absolute;
+    visibility: visible;
+    left: 688px;
+    top: 1126px; 
+    height:250px;
+    width:307px;
+    font:16px/26px Georgia, Garamond, Serif;
+    overflow:auto;  
+}
+
+
+
+#action {
+    position: absolute;
+    visibility: visible;
+    left: 688px;
+    top: 1382px;
+    background-color: black;
+    color: white;
+    height: 10px;
+    width: 10px;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: -987px;
+  left: 0;
+  padding: 41px;
+  background-color:grey;
+  text-align: center;
+}
